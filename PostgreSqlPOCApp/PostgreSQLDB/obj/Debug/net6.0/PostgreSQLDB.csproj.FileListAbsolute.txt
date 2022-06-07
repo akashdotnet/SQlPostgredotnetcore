@@ -1,0 +1,14 @@
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\bin\Debug\net6.0\PostgreSQLDB.deps.json
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\bin\Debug\net6.0\PostgreSQLDB.runtimeconfig.json
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\bin\Debug\net6.0\PostgreSQLDB.dll
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\bin\Debug\net6.0\ref\PostgreSQLDB.dll
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\bin\Debug\net6.0\PostgreSQLDB.pdb
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.csproj.AssemblyReference.cache
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.AssemblyInfoInputs.cache
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.AssemblyInfo.cs
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.csproj.CoreCompileInputs.cache
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.dll
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\ref\PostgreSQLDB.dll
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.pdb
+C:\Users\akash.gupta\Downloads\PostgreSqlPOCApp\PostgreSqlPOCApp\PostgreSQLDB\obj\Debug\net6.0\PostgreSQLDB.genruntimeconfig.cache
